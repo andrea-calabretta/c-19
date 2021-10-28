@@ -4,7 +4,7 @@
 
 ## Titolo: Covid-19 Tracker 
 
-## Studenti: 
+## Autori: 
 
 - ## 	Andrea Calabretta (matricola: 1000008923)
 
